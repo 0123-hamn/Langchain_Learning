@@ -37,4 +37,4 @@ langserve
 starlette
 grandalf
 langchain-core
-google-generativeai
+langchain-google-genai
